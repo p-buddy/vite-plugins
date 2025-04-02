@@ -7,7 +7,6 @@
         "ms-vscode.vscode-typescript-next",
         "svelte.svelte-vscode",
         "ms-azuretools.vscode-docker",
-        "bradlc.vscode-tailwindcss",
         "YoavBls.pretty-ts-errors"
       ]
     }
