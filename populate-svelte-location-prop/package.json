@@ -1,7 +1,7 @@
 {
-	"name": "...",
+	"name": "@p-buddy/vite-plugin-populate-svelte-location-prop",
 	"type": "module",
-	"private": true,
+	"private": false,
 	"version": "0.0.0",
 	"main": "src/index.ts",
 	"publishConfig": {
